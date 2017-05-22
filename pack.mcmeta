@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "custom resourcepack\n§e§nnovaskin.me"
+  },
+  "novaskin": {
+    "description": "Customize this resourcepack in novaskin.me"
+  }
+}
